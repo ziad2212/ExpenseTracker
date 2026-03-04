@@ -1,3 +1,8 @@
+## 🔗 Project
+
+This project is a solution for the [Expense Tracker API](https://roadmap.sh/projects/expense-tracker-api) challenge on roadmap.sh.
+
+
 # 💸 Expense Tracker API
 
 A RESTful API built with **ASP.NET Core** that allows users to manage their personal expenses. Features JWT authentication, expense CRUD operations, and date-based filtering.
